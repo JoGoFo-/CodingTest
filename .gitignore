@@ -1,0 +1,9 @@
+
+# /Weather.xcodeproj/
+/Weather.xcodeproj/xcuserdata
+/Weather.xcworkspace/xcuserdata
+
+
+# CocoaPods
+Pods
+Podfile.lock
